@@ -2,6 +2,7 @@
 A website for splitting expenses and all among friends
 [github_repository_readme_md (1).md](https://github.com/user-attachments/files/35501061/github_repository_readme_md.1.md)
 # Expence Splitter — Smart Expense Splitter for Hostels & Trips (`SW-15`)
+file:///C:/Users/DELL/Documents/hackathone/index.html.html
 
 > **A zero-confusion, FinTech expense management & debt simplification web portal built for college hostels, roommates, and group trips.**
 
