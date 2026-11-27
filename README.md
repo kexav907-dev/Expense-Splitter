@@ -1,7 +1,7 @@
 # Expense-Splitter
 A website for splitting expenses and all among friends
 [github_repository_readme_md (1).md](https://github.com/user-attachments/files/35501061/github_repository_readme_md.1.md)
-# 💸 HisabKitab Pro — Smart Expense Splitter for Hostels & Trips (`SW-15`)
+# Expence Splitter — Smart Expense Splitter for Hostels & Trips (`SW-15`)
 
 > **A zero-confusion, FinTech expense management & debt simplification web portal built for college hostels, roommates, and group trips.**
 
@@ -15,6 +15,7 @@ A website for splitting expenses and all among friends
 Roommates and friends on trips share dozens of small expenses such as groceries, room rent, Wi-Fi, cabs, and food. Keeping track of who owes whom quickly leads to manual calculation errors, confusion, and awkward reminders.
 
 **HisabKitab Pro** solves this by recording shared bills, scanning receipts via OCR, calculating exact net balances, and running a **Greedy Min-Cash-Flow Simplification Engine** to settle all group debts in the minimum number of UPI transfers.
+<img width="1917" height="1021" alt="Screenshot 2026-11-27 131852" src="https://github.com/user-attachments/assets/8b989fbf-6749-4dc2-a4cd-53c21f88649c" />
 
 ---
 
@@ -32,6 +33,8 @@ Roommates and friends on trips share dozens of small expenses such as groceries,
 * **Real-Time Friend Sync (`Room Code` Sharing):** Generate a 6-character Room Code (`#room=HK-XXXX`) so friends on other devices can join your group and see expenses update live.
 * **Start Fresh (`My Real Data` Wizard):** One-click onboarding wizard to clear demo numbers and set up your real profile, UPI ID, and friends directory.
 * **Spending Analytics & Printable Monthly Statement:** Interactive SVG category donut chart, out-of-pocket vs. consumed share bars, Dark/Light mode toggle, and a print-ready PDF financial statement.
+<img width="732" height="852" alt="Screenshot 2026-11-27 131956" src="https://github.com/user-attachments/assets/ebec3f96-7733-40c4-9911-6d8eee40980e" />
+<img width="1598" height="857" alt="Screenshot 2026-11-27 131927" src="https://github.com/user-attachments/assets/ff370611-5255-46c0-8b33-b241218130e3" />
 
 ---
 
