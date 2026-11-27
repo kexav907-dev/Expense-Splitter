@@ -1,4 +1,5 @@
-# 💸 HisabKitab Pro — Smart Expense Splitter for Hostels & Trips (`SW-15`)
+# expense splitter — Smart Expense Splitter for Hostels & Trips (`SW-15`)
+file:///C:/Users/DELL/Documents/hackathone/index.html.html
 
 > **A zero-confusion, FinTech expense management & debt simplification web portal built for college hostels, roommates, and group trips.**
 
